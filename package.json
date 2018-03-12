@@ -1,0 +1,15 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "Simple chat application, built with Socket.io",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Nicholas Kabalan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
